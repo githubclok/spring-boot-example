@@ -1,4 +1,4 @@
-package com.example.demo.config;
+package com.example.demo.swagger.config;
 
 import com.github.xiaoymin.swaggerbootstrapui.annotations.EnableSwaggerBootstrapUI;
 import org.springframework.context.annotation.Bean;
